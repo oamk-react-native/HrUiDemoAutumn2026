@@ -13,6 +13,7 @@ const styles = StyleSheet.create({
   title: {
     fontSize: theme.fontSizes.large,
     fontWeight: 'bold',
+    fontFamily: 'LatoRegular',
     color: theme.colors.primary,
     marginBottom: theme.spacing.medium
   },
